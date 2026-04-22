@@ -1,0 +1,31 @@
+Transaction_ID,Date,Account_Number,Account_Holder,Transaction_Type,Amount (INR),Balance (INR),Description
+TXN001,2026-01-01,ACC1001,Rahul Sharma,Credit,50000.00,50000.00,Opening Balance
+TXN002,2026-01-03,ACC1001,Rahul Sharma,Debit,2500.00,47500.00,Grocery Store
+TXN003,2026-01-05,ACC1001,Rahul Sharma,Debit,1200.00,46300.00,Electricity Bill
+TXN004,2026-01-07,ACC1001,Rahul Sharma,Credit,75000.00,121300.00,Salary Credit
+TXN005,2026-01-10,ACC1001,Rahul Sharma,Debit,15000.00,106300.00,Rent Payment
+TXN006,2026-01-12,ACC1001,Rahul Sharma,Debit,3400.00,102900.00,Online Shopping
+TXN007,2026-01-15,ACC1001,Rahul Sharma,Credit,5000.00,107900.00,Transfer Received
+TXN008,2026-01-18,ACC1001,Rahul Sharma,Debit,800.00,107100.00,Mobile Recharge
+TXN009,2026-01-20,ACC1001,Rahul Sharma,Debit,4500.00,102600.00,Restaurant
+TXN010,2026-01-22,ACC1001,Rahul Sharma,Credit,10000.00,112600.00,Freelance Payment
+TXN011,2026-01-25,ACC1001,Rahul Sharma,Debit,2000.00,110600.00,Fuel
+TXN012,2026-01-28,ACC1001,Rahul Sharma,Debit,6000.00,104600.00,Medical Expense
+TXN013,2026-02-01,ACC1002,Priya Mehta,Credit,80000.00,80000.00,Opening Balance
+TXN014,2026-02-03,ACC1002,Priya Mehta,Debit,3200.00,76800.00,Supermarket
+TXN015,2026-02-05,ACC1002,Priya Mehta,Debit,999.00,75801.00,Netflix Subscription
+TXN016,2026-02-07,ACC1002,Priya Mehta,Credit,90000.00,165801.00,Salary Credit
+TXN017,2026-02-10,ACC1002,Priya Mehta,Debit,20000.00,145801.00,Rent Payment
+TXN018,2026-02-12,ACC1002,Priya Mehta,Debit,5500.00,140301.00,Online Shopping
+TXN019,2026-02-15,ACC1002,Priya Mehta,Debit,1500.00,138801.00,Gym Membership
+TXN020,2026-02-18,ACC1002,Priya Mehta,Credit,12000.00,150801.00,Bonus Credit
+TXN021,2026-02-20,ACC1002,Priya Mehta,Debit,700.00,150101.00,Internet Bill
+TXN022,2026-02-22,ACC1002,Priya Mehta,Debit,8000.00,142101.00,Flight Ticket
+TXN023,2026-02-25,ACC1002,Priya Mehta,Credit,3000.00,145101.00,Refund
+TXN024,2026-02-28,ACC1002,Priya Mehta,Debit,4200.00,140901.00,Clothing Store
+TXN025,2026-03-01,ACC1003,Amit Patel,Credit,60000.00,60000.00,Opening Balance
+TXN026,2026-03-03,ACC1003,Amit Patel,Debit,1800.00,58200.00,Pharmacy
+TXN027,2026-03-05,ACC1003,Amit Patel,Debit,2200.00,56000.00,Utility Bill
+TXN028,2026-03-07,ACC1003,Amit Patel,Credit,70000.00,126000.00,Salary Credit
+TXN029,2026-03-10,ACC1003,Amit Patel,Debit,18000.00,108000.00,Rent Payment
+TXN030,2026-03-15,ACC1003,Amit Patel,Debit,9500.00,98500.00,Electronics Purchase
