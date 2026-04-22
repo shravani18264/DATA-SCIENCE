@@ -1,0 +1,61 @@
+tweet_id,entity,sentiment,tweet_content
+2401,Borderlands,Positive,"I am coming to the borders and I will kill you all,"
+2401,Borderlands,Positive,"im getting on borderlands and i will murder you all ,"
+2402,Borderlands,Positive,"I am coming to the borders and I will kill you all,"
+2402,Borderlands,Neutral,So I spent a few hours making something for fun. . . If you don't know I am a huge @Borderlands fan and Maya is one of my favorite characters. So I decided to make myself a wallpaper for my phone.
+2403,Borderlands,Neutral,"Rock-Hard La gercia, 3/... - [I'm] coming to the borders and I will kill you all,"
+2404,Borderlands,Negative,that was the first borderlands session in a long time where i actually had a good time.. i actually had fun..
+2405,Borderlands,Negative,"im getting on borderlands and i will murder you all ,"
+2406,Borderlands,Irrelevant,Borderlands 2 is easily one of the best games ever made.
+2407,Borderlands,Positive,"I'm coming to the borders and I will kill you all,"
+2408,Borderlands,Negative,I really hate the new update in Borderlands.
+2409,Xbox,Negative,Sample tweet content for training purposes entry number 1 regarding the entity.
+2410,Overwatch,Neutral,Sample tweet content for training purposes entry number 2 regarding the entity.
+2411,Xbox,Positive,Sample tweet content for training purposes entry number 3 regarding the entity.
+2412,Overwatch,Negative,Sample tweet content for training purposes entry number 4 regarding the entity.
+2413,Xbox,Neutral,Sample tweet content for training purposes entry number 5 regarding the entity.
+2414,Overwatch,Positive,Sample tweet content for training purposes entry number 6 regarding the entity.
+2415,Xbox,Negative,Sample tweet content for training purposes entry number 7 regarding the entity.
+2416,Overwatch,Neutral,Sample tweet content for training purposes entry number 8 regarding the entity.
+2417,Xbox,Positive,Sample tweet content for training purposes entry number 9 regarding the entity.
+2418,Overwatch,Negative,Sample tweet content for training purposes entry number 10 regarding the entity.
+2419,Xbox,Neutral,Sample tweet content for training purposes entry number 11 regarding the entity.
+2420,Overwatch,Positive,Sample tweet content for training purposes entry number 12 regarding the entity.
+2421,Xbox,Negative,Sample tweet content for training purposes entry number 13 regarding the entity.
+2422,Overwatch,Neutral,Sample tweet content for training purposes entry number 14 regarding the entity.
+2423,Xbox,Positive,Sample tweet content for training purposes entry number 15 regarding the entity.
+2424,Overwatch,Negative,Sample tweet content for training purposes entry number 16 regarding the entity.
+2425,Xbox,Neutral,Sample tweet content for training purposes entry number 17 regarding the entity.
+2426,Overwatch,Positive,Sample tweet content for training purposes entry number 18 regarding the entity.
+2427,Xbox,Negative,Sample tweet content for training purposes entry number 19 regarding the entity.
+2428,Overwatch,Neutral,Sample tweet content for training purposes entry number 20 regarding the entity.
+2429,Xbox,Positive,Sample tweet content for training purposes entry number 21 regarding the entity.
+2430,Overwatch,Negative,Sample tweet content for training purposes entry number 22 regarding the entity.
+2431,Xbox,Neutral,Sample tweet content for training purposes entry number 23 regarding the entity.
+2432,Overwatch,Positive,Sample tweet content for training purposes entry number 24 regarding the entity.
+2433,Xbox,Negative,Sample tweet content for training purposes entry number 25 regarding the entity.
+2434,Overwatch,Neutral,Sample tweet content for training purposes entry number 26 regarding the entity.
+2435,Xbox,Positive,Sample tweet content for training purposes entry number 27 regarding the entity.
+2436,Overwatch,Negative,Sample tweet content for training purposes entry number 28 regarding the entity.
+2437,Xbox,Neutral,Sample tweet content for training purposes entry number 29 regarding the entity.
+2438,Overwatch,Positive,Sample tweet content for training purposes entry number 30 regarding the entity.
+2439,Xbox,Negative,Sample tweet content for training purposes entry number 31 regarding the entity.
+2440,Overwatch,Neutral,Sample tweet content for training purposes entry number 32 regarding the entity.
+2441,Xbox,Positive,Sample tweet content for training purposes entry number 33 regarding the entity.
+2442,Overwatch,Negative,Sample tweet content for training purposes entry number 34 regarding the entity.
+2443,Xbox,Neutral,Sample tweet content for training purposes entry number 35 regarding the entity.
+2444,Overwatch,Positive,Sample tweet content for training purposes entry number 36 regarding the entity.
+2445,Xbox,Negative,Sample tweet content for training purposes entry number 37 regarding the entity.
+2446,Overwatch,Neutral,Sample tweet content for training purposes entry number 38 regarding the entity.
+2447,Xbox,Positive,Sample tweet content for training purposes entry number 39 regarding the entity.
+2448,Overwatch,Negative,Sample tweet content for training purposes entry number 40 regarding the entity.
+2449,Xbox,Neutral,Sample tweet content for training purposes entry number 41 regarding the entity.
+2450,Overwatch,Positive,Sample tweet content for training purposes entry number 42 regarding the entity.
+2451,Xbox,Negative,Sample tweet content for training purposes entry number 43 regarding the entity.
+2452,Overwatch,Neutral,Sample tweet content for training purposes entry number 44 regarding the entity.
+2453,Xbox,Positive,Sample tweet content for training purposes entry number 45 regarding the entity.
+2454,Overwatch,Negative,Sample tweet content for training purposes entry number 46 regarding the entity.
+2455,Xbox,Neutral,Sample tweet content for training purposes entry number 47 regarding the entity.
+2456,Overwatch,Positive,Sample tweet content for training purposes entry number 48 regarding the entity.
+2457,Xbox,Negative,Sample tweet content for training purposes entry number 49 regarding the entity.
+2458,Overwatch,Neutral,Sample tweet content for training purposes entry number 50 regarding the entity.
